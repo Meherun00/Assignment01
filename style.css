@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif; 
+}
+h1{
+    margin: 0;
+}
+/* 1st section design start */
+.main-section{
+    display: flex;
+}
+.section-title{
+    font-size: 3rem;
+}
+.left-side{
+    margin-top: 5rem;
+}
+.special-title{
+    color: #FF217D;
+}
+.sub-title{
+    font: 1.5rem;
+}
+.left-side p{
+    width: 600px;
+    color: rgba(46, 39, 39, 0.838);
+    text-align: justify;
+}
+.right-side{
+    margin-left: 50px;
+}
+.right-side img{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 100px;
+    border-radius: 50%;
+}
+.btn-style{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(to right, #690e6b ,#ff217d );
+    font-size:1.2rem;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+/* 1st section design end */
+/* 2st section design start */
+.second-main-section{
+    display: flex;
+    margin-top: 5rem;
+}
+.second-left-side img{
+    width: 80%;
+    margin-left: 4rem;
+    border-radius: 50%;  
+}
+.second-right-side {
+    width: 50%;
+    margin-top: 3rem;
+}
+.second-right-side p {
+    width: 600px;
+    color: rgba(46, 39, 39, 0.838);
+    text-align: justify;
+}
+/* 2st section design end*/
+
+/* experience section design start */
+.experience{
+    margin: 100px 0 100px 0;
+}
+.experience-title-section{
+    font-size: 3rem;
+}
+.experience-main-div{
+    margin-top: 50px;
+    display: flex;
+}
+.left-side-experience{
+    margin: 0 40px 0 80px;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+    padding: 50px 30px;
+}
+.right-side-experience{
+    margin: 0 80px 0 40px;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+    padding: 50px 30px;
+}
+.experience-title{
+    font-size: 2.5rem;
+}
+.experience-sub-title{
+    font-size: 1.4rem;
+    color: #af229a;
+}
+.experience-p{
+    color: rgba(39, 37, 37, 0.676);
+}
+/* experience section design end */
+/* footer design start  */ 
+.footer{
+    margin: 50px 0 30px;
+}
+.footer p{
+    text-align: center;
+}
+/* footer design end */
